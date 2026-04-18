@@ -44,7 +44,7 @@ The voting module implements a genuine anonymity architecture: the system proves
 - Society leaders manage their own pages and post events
 - Push/email notifications for new events
 
-### ⚙️ Admin Dashboard
+###  Admin Dashboard
 - Create and configure elections (positions, dates, eligibility)
 - Approve or reject candidate registrations
 - Approve new society registrations
